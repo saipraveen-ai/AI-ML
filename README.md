@@ -42,6 +42,56 @@ This repository serves as the single source of truth for a structured course on 
 - Combine everything into a final project
 - Example: A multi-agent stock analysis system with LLM integration
 
+## Week-Wise Course Outline
+
+### Week 1: Introduction to AI/ML and Gen AI
+- Overview of Artificial Intelligence and Machine Learning
+- Introduction to Generative AI and its applications
+- Tools and frameworks for AI/ML development
+- Hands-on: Setting up your development environment
+
+### Week 2: Large Language Models (LLMs)
+- Understanding LLMs and their architecture
+- Pre-training and fine-tuning of LLMs
+- Applications of LLMs in real-world scenarios
+- Hands-on: Fine-tuning a pre-trained LLM
+
+### Week 3: Multi-Agent Systems
+- Introduction to Multi-Agent Systems
+- Communication and coordination among agents
+- Use cases of Multi-Agent Systems
+- Hands-on: Building a simple Multi-Agent System
+
+### Week 4: Agentic Architecture
+- Understanding Agentic Architecture
+- Designing autonomous agents
+- Challenges in building agentic systems
+- Hands-on: Implementing an agentic system
+
+### Week 5: Design Patterns in AI/ML
+- Common design patterns in AI/ML projects
+- Best practices for scalable and maintainable AI systems
+- Case studies of successful AI/ML projects
+- Hands-on: Applying design patterns to a project
+
+### Week 6: Real-World Projects
+- Overview of real-world AI/ML projects
+- Identifying problems and designing solutions
+- Building end-to-end AI/ML systems
+- Hands-on: Starting your capstone project
+
+### Week 7: MCP Servers
+- Introduction to Model Context Protocol (MCP) Servers
+- Setting up and deploying MCP Servers
+- Integrating MCP Servers with AI/ML systems
+- Hands-on: Deploying an MCP Server
+
+### Week 8: Capstone Project
+- Finalizing the capstone project
+- Presenting your project
+- Peer reviews and feedback
+- Course wrap-up and next steps
+
 ## Repository Structure
 - `Module1/`: Content for Module 1
 - `Module2/`: Content for Module 2
