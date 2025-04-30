@@ -1,14 +1,16 @@
-# Module 4: Real-World Projects
+# Module 4: Retrieval-Augmented Generation (RAG) & Vector Databases
 
 ## Overview
-This module focuses on real-world AI/ML projects, including challenges in deployment and maintenance. It also introduces LangChain for building intelligent database query agents and interactive applications.
+This module focuses on enhancing LLMs with external data sources using RAG techniques. It also introduces vector databases and embedding models for efficient data retrieval.
 
 ## Topics Covered
-- Case studies of AI in production (e.g., chatbots, recommendation engines)
-- Challenges in deploying AI systems
-- Monitoring and maintaining AI systems
-- **Using LangChain for Intelligent Database Query Agents**
+- Introduction to Vector Databases and Embedding Models
+- Implementing RAG with LlamaIndex & LlamaParse
+- Data Preparation: Handling PDFs, Docs, CSVs
 
 ## Hands-On Activities
-- Starting your capstone project
-- **Building an interactive application using LangChain**
+- Preparing data for RAG
+- **Building a document Q&A system using RAG techniques**
+
+## Recommended Resource
+- Complete Generative AI Course with LangChain and HuggingFace

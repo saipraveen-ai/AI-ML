@@ -1,15 +1,19 @@
-# Module 2: Multi-Agent Systems and Agentic Architecture
+# Module 2: Generative AI & Large Language Models (LLMs)
 
 ## Overview
-This module explores multi-agent systems and agentic architecture, focusing on communication protocols and real-world use cases. It also introduces AutoGen for research automation and data visualization.
+This module explores the capabilities of Large Language Models (LLMs) and their applications in various domains. It also introduces function calling, prompt engineering, and fine-tuning techniques.
 
 ## Topics Covered
-- What are multi-agent systems?
-- Agentic architecture and design principles
-- Communication protocols between agents
-- Real-world use cases (e.g., stock trading, recommendation systems)
-- **Constructing and Optimizing Multi-Agent Systems with AutoGen**
+- Introduction to LLMs: ChatGPT, Claude, Gemini, Llama, Mistral
+- Function Calling in LLMs
+- Prompt Engineering Techniques
+- Fine-tuning and Knowledge Augmentation
 
 ## Hands-On Activities
-- Building a simple Multi-Agent System
-- **Using AutoGen for research automation and data visualization**
+- Experimenting with prompt engineering
+- Fine-tuning an LLM for a specific task
+- **Building a knowledge-augmented chatbot**
+
+## Recommended Resources
+- Complete Generative AI Course with LangChain and HuggingFace
+- Master Generative AI with LangChain and Hugging Face

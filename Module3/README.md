@@ -1,14 +1,16 @@
-# Module 3: Design Patterns for AI Systems
+# Module 3: AI Agents & Automation
 
 ## Overview
-This module covers common design patterns in AI systems and their application to LLM-based systems. It also demonstrates the use of tools like CrewAI, Perplexity AI, AutoGen, AutoGPT, and AutoDev for building efficient AI-driven digital workers.
+This module focuses on building and deploying AI agents for automating tasks and processes. It introduces tools like LangChain, LangFlow, and BabyAGI for creating intelligent agents.
 
 ## Topics Covered
-- Common design patterns in AI (e.g., observer, factory, strategy)
-- Applying design patterns to LLM-based systems
-- Error handling and fault tolerance in AI workflows
-- **Using CrewAI, Perplexity AI, AutoGen, AutoGPT, and AutoDev for AI-driven digital workers**
+- Basics of AI Agents: Autogen, LangChain, LangFlow, Flowise, LangGraph, BabyAGI, CrewAI
+- Creating AI Agents for Content Generation, Email Automation, Lead Research
+- Integration with External APIs and Tools
 
 ## Hands-On Activities
-- Applying design patterns to a project
-- **Building an AI-driven digital worker using AutoGPT**
+- Building an AI agent for email automation
+- **Creating a content generation agent using LangChain**
+
+## Recommended Resource
+- AI Engineering Complete Bootcamp Masterclass

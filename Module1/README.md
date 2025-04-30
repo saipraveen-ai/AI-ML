@@ -1,9 +1,13 @@
-# Module 1: Foundations of AI and LLMs
+# Module 1: Foundations of AI and Machine Learning
 
 ## Overview
-This module introduces the foundational concepts of AI and Large Language Models (LLMs). It also covers the use of LangGraph for creating generative AI language models and autonomous agents.
+This module establishes a solid understanding of AI and Machine Learning (ML) concepts without delving deeply into Python syntax. It also introduces foundational concepts of Large Language Models (LLMs) and their applications.
 
 ## Topics Covered
+- Overview of AI, ML, and Deep Learning
+- Supervised vs. Unsupervised Learning
+- Key Algorithms: Regression, Classification, Clustering
+- Model Evaluation Metrics
 - Introduction to AI and its applications
 - Overview of Large Language Models (LLMs)
 - Understanding transformers and attention mechanisms
@@ -14,3 +18,6 @@ This module introduces the foundational concepts of AI and Large Language Models
 - Setting up your development environment
 - Fine-tuning a pre-trained LLM
 - **Building a simple generative AI model using LangGraph**
+
+## Recommended Resource
+- Complete Machine Learning & NLP Bootcamp
