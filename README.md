@@ -1,5 +1,14 @@
 # AI/ML/Gen AI/Agents Course Repository
 
+## Recommended Courses
+
+Enhance your learning with these comprehensive courses:
+
+- [AI Engineering Complete Bootcamp Masterclass](https://www.udemy.com/course/ai-engineering-complete-bootcamp-masterclass/?couponCode=IND21PM)
+- [Complete Generative AI Course with LangChain and HuggingFace](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=IND21PM)
+- [Building Gen AI App End to End Projects with Gemini Pro](https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro/?couponCode=IND21PM)
+- [Complete Machine Learning & NLP Bootcamp](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/?couponCode=IND21PM)
+
 ## Course Overview
 This repository serves as the single source of truth for a structured course on AI, focusing on:
 - Large Language Models (LLMs)
