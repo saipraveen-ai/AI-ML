@@ -21,3 +21,8 @@ This module establishes a solid understanding of AI and Machine Learning (ML) co
 
 ## Recommended Resource
 - Complete Machine Learning & NLP Bootcamp
+
+## 🎓 Supplementary Learning Resources
+- **[AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone)** - Perfect introduction to AI concepts without heavy technical focus
+- **[Google AI Essentials](https://imp.i384100.net/xLyxn5)** - Comprehensive overview of AI fundamentals and Google's AI ecosystem
+- **[HuggingFace LLM Course - Chapter 1](https://huggingface.co/learn/llm-course/chapter1/1)** - Deep dive into transformer architecture and LLM fundamentals

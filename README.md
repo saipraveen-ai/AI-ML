@@ -9,6 +9,60 @@ Enhance your learning with these comprehensive courses:
 - [Building Gen AI App End to End Projects with Gemini Pro](https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro/?couponCode=IND21PM)
 - [Complete Machine Learning & NLP Bootcamp](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/?couponCode=IND21PM)
 
+## Additional Learning Resources
+
+### 📹 Video Tutorials & YouTube Channels
+- [Reference Video: Learning Resources Collection](https://www.youtube.com/watch?v=3alYLWd9ETE) - *Curated collection of top AI learning resources*
+- [LangChain Official Channel](https://www.youtube.com/@LangChain) - Latest updates and tutorials
+- [OpenAI Developer Channel](https://www.youtube.com/@OpenAI) - API tutorials and best practices
+- [Hugging Face Channel](https://www.youtube.com/@HuggingFace) - Model tutorials and demos
+
+### 🎓 Featured Courses & Specializations
+- [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone) - Non-technical AI overview by Andrew Ng
+- [ChatGPT Prompt Engineering - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Master prompt engineering techniques
+- [Google AI Essentials](https://imp.i384100.net/xLyxn5) - Comprehensive Google AI fundamentals
+- [CrewAI Multi Agent Systems - DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) - Build collaborative AI agent systems
+- [MCP Basics with Anthropic - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/) - Model Context Protocol fundamentals
+- [Reasoning with o1 - DeepLearning.AI](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) - Advanced reasoning capabilities
+- [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) - Complete LLM development course
+- [Building AI Apps with ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) - Practical API integration
+- [Google Vertex AI Courses](https://www.cloudskillsboost.google/catalog?keywords=vertex%20ai) - Cloud-based AI development
+
+### 📚 Documentation & Official Guides
+- [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction) - Comprehensive framework docs
+- [OpenAI API Documentation](https://platform.openai.com/docs) - Complete API reference
+- [Hugging Face Documentation](https://huggingface.co/docs) - Models, datasets, and libraries
+- [Anthropic Claude Documentation](https://docs.anthropic.com/) - Claude API and best practices
+- [Google AI Studio](https://ai.google.dev/) - Gemini API documentation
+
+### 🛠️ Frameworks & Tools
+- [LangChain Hub](https://smith.langchain.com/hub) - Pre-built prompts and chains
+- [Hugging Face Model Hub](https://huggingface.co/models) - Pre-trained models
+- [Vector Database Comparison](https://github.com/vector-database-comparison) - Choosing the right vector DB
+- [AI Engineering Tools](https://github.com/eugeneyan/applied-ml) - Production AI/ML tools
+
+### 📖 Books & Reading Materials
+- "Building LLM Applications for Production" - Chip Huyen
+- "Hands-On Large Language Models" - Jay Mody & Meor Amer
+- "AI Engineering: Building Applications with Foundation Models" - Chip Huyen
+- "Designing Data-Intensive Applications" - Martin Kleppmann
+
+### 🔬 Research Papers & Articles
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Original Transformer paper
+- [RAG: Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401) - RAG methodology
+- [LangChain: Building applications with LLMs](https://blog.langchain.dev/) - Framework insights
+
+### 🏗️ Project Templates & Examples
+- [LangChain Templates](https://github.com/langchain-ai/langchain/tree/master/templates) - Ready-to-use project templates
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Code examples and guides
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Curated LLM applications
+
+### 🎯 Practice Platforms
+- [Kaggle Learn](https://www.kaggle.com/learn) - Free micro-courses
+- [Google Colab](https://colab.research.google.com/) - Free GPU/TPU for experiments
+- [Hugging Face Spaces](https://huggingface.co/spaces) - Deploy and share ML apps
+- [GitHub Codespaces](https://github.com/features/codespaces) - Cloud development environment
+
 ## Course Overview
 This repository serves as the single source of truth for a structured course on AI, focusing on:
 - Large Language Models (LLMs)
@@ -113,12 +167,14 @@ This repository serves as the single source of truth for a structured course on 
 1. Navigate to the folder for the module you are working on.
 2. Follow the instructions in the module's `README` file.
 3. Complete the assignments and projects.
+4. **📚 Check [LEARNING_RESOURCES.md](LEARNING_RESOURCES.md) for comprehensive learning materials**
 
 ## Tools and Platforms
 - Google Colab
 - MCP Servers
 - Python, TensorFlow, PyTorch
 - Hugging Face, OpenAI APIs
+- LangChain, ChromaDB, Streamlit
 
 ## License
 This repository is for educational purposes only.

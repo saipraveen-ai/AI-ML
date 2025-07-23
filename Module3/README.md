@@ -14,3 +14,9 @@ This module focuses on building and deploying AI agents for automating tasks and
 
 ## Recommended Resource
 - AI Engineering Complete Bootcamp Masterclass
+
+## 🎓 Supplementary Learning Resources
+- **[CrewAI Multi Agent Systems - DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)** - Perfect for understanding multi-agent collaboration and CrewAI framework
+- **[MCP Basics with Anthropic - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)** - Essential for understanding Model Context Protocol and agentic RAG systems
+- **[OpenAI Guide to Building AI Agents](https://cdn.openai.com/business-guide/)** - Official OpenAI guide with best practices for agent development
+- **[Building AI Apps with ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)** - Practical implementation of AI agents using APIs

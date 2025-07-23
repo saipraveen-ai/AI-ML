@@ -18,3 +18,9 @@ This module applies learned concepts to build end-to-end applications using Gemi
 
 ## Recommended Resource
 - Building Gen AI App End to End Projects with Gemini Pro
+
+## 🎓 Supplementary Learning Resources
+- **[Google AI Essentials](https://imp.i384100.net/xLyxn5)** - Comprehensive guide to Google's AI ecosystem and Gemini Pro
+- **[Google Vertex AI Courses](https://www.cloudskillsboost.google/catalog?keywords=vertex%20ai)** - Cloud deployment and scaling with Google Cloud Platform
+- **[Building AI Apps with ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)** - Cross-platform AI app development patterns
+- **[ChatGPT Prompt Engineering - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)** - Advanced prompting for complex applications
